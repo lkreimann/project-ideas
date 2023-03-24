@@ -8,6 +8,10 @@ Projects that I want to tackle in my leisure time.
 * App that analyzes listening habits from last.fm users based on genre 
 * App that analyzes listening habits from last.fm users based on diversity of the bands
 
+## Language stuff
+
+* Show random word in danish (after page load) - maybe even with translater function
+
 ## Angular
 
 * Try Last.fm integration
