@@ -15,4 +15,4 @@ Projects that I want to tackle in my leisure time.
 ## Angular
 
 * Try Last.fm integration
-* Personal book database with on a document-based DB
+* Personal book database with a document-based DB
